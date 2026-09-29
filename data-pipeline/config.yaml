@@ -1,0 +1,2 @@
+api_url: https://api.internal.northwind.example
+export_bucket: northwind-analytics-exports
